@@ -6,13 +6,16 @@ Fractol est un projet de programmation informatique développé dans le cadre de
 
 Pour installer le programme Fractol, vous devez d'abord cloner le dépôt GitHub sur votre machine locale :
 
-#### git clone https://github.com/vamoussa00225/fractol.git
-![bandicam 2023-03-15 13-15-55-165](https://user-images.githubusercontent.com/85373441/225306392-736f869a-66b5-45ba-a068-69329acb810d.jpg)
-
+```bash
+  git clone https://github.com/vamoussa00225/fractol.git
+```
 
 Ensuite, vous devez vous rendre dans le répertoire fractol et exécuter la commande make pour compiler le programme :
 
-![bandicam 2023-03-15 13-28-30-257](https://user-images.githubusercontent.com/85373441/225309150-2470355b-8215-48fa-ac01-b6be290ee783.jpg)
+```bash
+  cd fractol
+  make
+```
 
 Le programme sera alors compilé et prêt à être exécuté.
 
@@ -20,7 +23,9 @@ Le programme sera alors compilé et prêt à être exécuté.
 
 Une fois le programme compilé, vous pouvez l'exécuter en utilisant la commande suivante :
 
-![bandicam 2023-03-15 13-31-17-265](https://user-images.githubusercontent.com/85373441/225309689-216914fe-baa9-458d-98ee-b27325f464a2.jpg)
+```bash
+  ./fractol <Nom de la fractale>
+```
 
 Le paramètre <nom-de-la-fractale> peut prendre l'une des valeurs suivantes :
 
