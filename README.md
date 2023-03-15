@@ -41,3 +41,7 @@ Voici quelques exemples d'images de fractales générées avec le programme Frac
 
 ### Fractale Burning Ship
 ![32923636492_07ec908a12](https://user-images.githubusercontent.com/85373441/225313196-72631577-1fd6-49ce-8c1c-fda7dc0bf089.jpg)
+  
+# Auteurs
+
+Ce programme a été développé par "Vkanate" dans le cadre du projet Fractol de l'école 42.
